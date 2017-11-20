@@ -12,6 +12,7 @@
 		3ED9FE761FC1A2930081C382 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3ED9FE741FC1A2930081C382 /* Main.storyboard */; };
 		3ED9FE781FC1A2930081C382 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3ED9FE771FC1A2930081C382 /* Assets.xcassets */; };
 		3ED9FE7B1FC1A2930081C382 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3ED9FE791FC1A2930081C382 /* LaunchScreen.storyboard */; };
+		3ED9FE831FC1A2A40081C382 /* Thanos_Marvel_Cinematic_Universe.png in Resources */ = {isa = PBXBuildFile; fileRef = 3ED9FE821FC1A2A40081C382 /* Thanos_Marvel_Cinematic_Universe.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		3ED9FE771FC1A2930081C382 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3ED9FE7A1FC1A2930081C382 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3ED9FE7C1FC1A2930081C382 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3ED9FE821FC1A2A40081C382 /* Thanos_Marvel_Cinematic_Universe.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Thanos_Marvel_Cinematic_Universe.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		3ED9FE6F1FC1A2930081C382 /* gameTesting */ = {
 			isa = PBXGroup;
 			children = (
+				3ED9FE821FC1A2A40081C382 /* Thanos_Marvel_Cinematic_Universe.png */,
 				3ED9FE701FC1A2930081C382 /* AppDelegate.swift */,
 				3ED9FE721FC1A2930081C382 /* ViewController.swift */,
 				3ED9FE741FC1A2930081C382 /* Main.storyboard */,
@@ -125,6 +128,7 @@
 			files = (
 				3ED9FE7B1FC1A2930081C382 /* LaunchScreen.storyboard in Resources */,
 				3ED9FE781FC1A2930081C382 /* Assets.xcassets in Resources */,
+				3ED9FE831FC1A2A40081C382 /* Thanos_Marvel_Cinematic_Universe.png in Resources */,
 				3ED9FE761FC1A2930081C382 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
